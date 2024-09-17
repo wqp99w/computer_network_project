@@ -18,6 +18,8 @@
 ## 주요 기능
 
 + GET Request/Response
+
+  나는 내 맘ㄷ0ㄹ 할거여
 + HEAD Request/Response
 + POST Request/Response
 + PUT Request/Response
