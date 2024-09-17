@@ -22,7 +22,18 @@
 
   ![겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%2Chead.jpg)
 
-  ![겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%EC%83%A4%ED%81%AC.jpg)
+  ![겟헤드샤크예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%EC%83%A4%ED%81%AC.jpg)
   
 + POST Request/Response
+
+  ![포스트예시](https://github.com/wqp99w/read-me_image/blob/main/network/post.jpg)
+
+  ![포스트샤크예시](https://github.com/wqp99w/read-me_image/blob/main/network/post%EC%83%A4%ED%81%AC.jpg)
+  
 + PUT Request/Response
+
+  
+  ![풋예시](https://github.com/wqp99w/read-me_image/blob/main/network/put.jpg)
+
+  ![픗샤크예시](https://github.com/wqp99w/read-me_image/blob/main/network/put%EC%83%A4%ED%81%AC.jpg)
+  
