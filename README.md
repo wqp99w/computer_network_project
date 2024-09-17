@@ -18,12 +18,11 @@
 ## 주요 기능
 
 + GET Request/Response
++ HEAD Request/Response
 
   ![겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%2Chead.jpg)
 
   ![겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%EC%83%A4%ED%81%AC.jpg)
   
-  나는 내 맘ㄷ0ㄹ 할거여
-+ HEAD Request/Response
 + POST Request/Response
 + PUT Request/Response
