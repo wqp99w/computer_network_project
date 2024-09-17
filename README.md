@@ -17,3 +17,7 @@
 
 ## 주요 기능
 
++ GET Request/Response
++ HEAD Request/Response
++ POST Request/Response
++ PUT Request/Response
