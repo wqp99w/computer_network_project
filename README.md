@@ -19,7 +19,7 @@
 
 + GET Request/Response
 
-  [겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%2Chead.jpg)
+  ![겟헤드예시](https://github.com/wqp99w/read-me_image/blob/main/network/get%2Chead.jpg)
   나는 내 맘ㄷ0ㄹ 할거여
 + HEAD Request/Response
 + POST Request/Response
